@@ -1,6 +1,6 @@
-CACHE MANIFEST
-# v1.12 B1 AUTO 07-01-2021
- 
+CACHE MANIFEST 
+# v2.5.5 Self-Host 
+
 1.jpg
 index.html
 common\exploit.js
@@ -43,9 +43,15 @@ payloads\restore.js
 payloads\rifrenamer.js
 payloads\todex.js
 payloads\webrte.js
+restore\blob.js
+restore\CacheInstall.js
+restore\index.html
+restore\jb.js
+restore\mira.js
+restore\netcat.js
+restore\webkit\int64.js
+restore\webkit\ps4.js
+restore\webkit\utils.js
 webkit\int64.js
 webkit\ps4.js
 webkit\utils.js
-
-NETWORK:
-*
