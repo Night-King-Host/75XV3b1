@@ -43,6 +43,8 @@ payloads\restore.js
 payloads\rifrenamer.js
 payloads\todex.js
 payloads\webrte.js
+payloads\frontend.js
+payloads\payload.js
 webkit\int64.js
 webkit\ps4.js
 webkit\utils.js
